@@ -1,0 +1,87 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+color:  #000000D4;
+font-family: 'Poppins';
+    
+}
+
+section{
+    width: 30%;
+   height: 120vh;
+ background:#eff7f6;
+ margin: auto;
+ margin-top: 10px;
+
+}
+
+section div
+{
+    width: 100%;
+}
+
+div .undraw_reminders
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+  top: 100px;
+ 
+}
+
+div h2
+{
+    
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: relative;
+ top: 130px;
+ left: 10px;
+ 
+}
+
+div p
+{
+    
+    
+    display: block;
+    text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: relative;
+ top: 150px;
+}
+
+
+div button
+{
+    display: block;
+    text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 60px;
+  color: #FFFFFF;
+  background-color: #538d22;
+  position: relative;
+ top: 250px;   
+ border: none;
+ font-weight: bolder;
+}
+
+div a
+{
+    text-decoration: none;
+}
