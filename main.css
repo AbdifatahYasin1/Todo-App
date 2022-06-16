@@ -153,9 +153,7 @@ body {
   color: #38c24e;
 }
 
-
-.Log-in
-{
+.Log-in {
   width: 30%;
   height: 120vh;
   background: #d8f3dc;
@@ -163,8 +161,7 @@ body {
   margin-top: 10px;
 }
 
-.Log-in h2
-{
+.Log-in h2 {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -174,13 +171,11 @@ body {
   text-align: center;
 }
 
-.Log-in #image
-{
-width: 50%;
-text-align: center;
-position: relative;
-left: 20%;
-
+.Log-in #image {
+  width: 50%;
+  text-align: center;
+  position: relative;
+  left: 20%;
 }
 
 .Log-in form input {
@@ -226,28 +221,24 @@ left: 20%;
   font-weight: bolder;
 }
 
-#forget{
+#forget {
   position: relative;
-  top: 0px;
-  
-
+  top: 0;
 }
 
-#forget a{
+#forget a {
   text-decoration: none;
   color: #38c24e;
   font-size: 13px;
 }
 
-#sign-in
-{
+#sign-in {
   position: relative;
   top: 140px;
 }
 
-#sign-in a{
+#sign-in a {
   text-decoration: none;
   color: #38c24e;
   margin: 5px;
 }
-
