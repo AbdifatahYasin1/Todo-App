@@ -9,38 +9,11 @@ body {
   font-family: Poppins, serif;
 }
 
-section {
-  width: 30%;
-  height: 120vh;
-  background: #eff7f6;
-  margin: auto;
-  margin-top: 10px;
-}
-
-section div {
+.splash-screen div {
   width: 100%;
 }
 
-div .undraw_reminders {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  position: relative;
-  top: 100px;
-}
-
-div h2 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-  position: relative;
-  top: 130px;
-  left: 10px;
-}
-
-div p {
+.splash-screen p {
   display: block;
   text-align: center;
   margin-left: auto;
@@ -50,7 +23,7 @@ div p {
   top: 150px;
 }
 
-div button {
+.splash-screen button {
   display: block;
   text-align: center;
   margin-left: auto;
@@ -65,112 +38,74 @@ div button {
   font-weight: bolder;
 }
 
-div a {
+.splash-screen a {
   text-decoration: none;
 }
 
-*
-{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+.splash-screen {
+  width: 30%;
+  height: 120vh;
+  background: #d8f3dc;
+  margin: auto;
+  margin-top: 10px;
 }
 
-body
-{
-color:  #000000D4;
-font-family: 'Poppins';
-    
-}
-
-section{
-    width: 30%;
-   height: 120vh;
- background:#d8f3dc;
- margin: auto;
- margin-top: 10px;
-
-}
-
-section div
-{
-    width: 100%;
-}
-
-div .undraw_reminders
-{
-    display: block;
+.splash-screen .undraw_reminders {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
   position: relative;
   top: 100px;
- 
 }
 
-div h2
-{
-    
-    
-    display: block;
+.splash-screen h2 {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
   position: relative;
- top: 130px;
- left: 10px;
- 
+  top: 130px;
+  left: 10px;
 }
 
-
-
-
-.Registration button
-{
-    display: block;
-    text-align: center;
-    align-items: center;
+.Registration button {
+  display: block;
+  text-align: center;
+  align-items: center;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
   height: 60px;
-  color: #FFFFFF;
+  color: #fff;
   background-color: #538d22;
   position: relative;
- top: 140px;   
- border: none;
- font-weight: bolder;
-
+  top: 140px;
+  border: none;
+  font-weight: bolder;
 }
 
-.Registration form p 
-{
-    
-    
-    display: block;
-    text-align: center;
+#login {
+  display: block;
+  text-align: center;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
   position: relative;
- top: 160px;
+  top: 180px;
 }
 
-div a
-{
-    text-decoration: none;
+#Register {
+  text-decoration: none;
 }
 
-.Registration
-{
+.Registration {
   width: 30%;
-   height: 120vh;
-   background: #d8f3dc;
- margin: auto;
- margin-top: 10px;
+  height: 120vh;
+  background: #d8f3dc;
+  margin: auto;
+  margin-top: 10px;
 }
-
-
 
 .Registration h2 {
   display: block;
@@ -191,8 +126,8 @@ div a
   top: 80px;
   text-align: center;
 }
-.Registration form input
-{
+
+.Registration form input {
   display: block;
   margin: 20px;
   text-align: center;
@@ -202,31 +137,18 @@ div a
   padding: 10px;
   width: 80%;
   border: none;
-
-
-  font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 13px;
-line-height: 20px;
-
-border-radius: 40px;
-  
-
-
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  border-radius: 40px;
 }
 
-
-
-.Registration img 
-{
+.Registration img {
   width: 50%;
 }
 
-
-.Registration p a
-{
+.Registration p a {
   text-decoration: none;
-  color:#38C24E;
+  color: #38c24e;
 }
-
