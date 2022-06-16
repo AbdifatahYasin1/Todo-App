@@ -68,3 +68,165 @@ div button {
 div a {
   text-decoration: none;
 }
+
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+color:  #000000D4;
+font-family: 'Poppins';
+    
+}
+
+section{
+    width: 30%;
+   height: 120vh;
+ background:#d8f3dc;
+ margin: auto;
+ margin-top: 10px;
+
+}
+
+section div
+{
+    width: 100%;
+}
+
+div .undraw_reminders
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+  top: 100px;
+ 
+}
+
+div h2
+{
+    
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: relative;
+ top: 130px;
+ left: 10px;
+ 
+}
+
+
+
+
+.Registration button
+{
+    display: block;
+    text-align: center;
+    align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 60px;
+  color: #FFFFFF;
+  background-color: #538d22;
+  position: relative;
+ top: 140px;   
+ border: none;
+ font-weight: bolder;
+
+}
+
+.Registration form p 
+{
+    
+    
+    display: block;
+    text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: relative;
+ top: 160px;
+}
+
+div a
+{
+    text-decoration: none;
+}
+
+.Registration
+{
+  width: 30%;
+   height: 120vh;
+   background: #d8f3dc;
+ margin: auto;
+ margin-top: 10px;
+}
+
+
+
+.Registration h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+
+.Registration p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  position: relative;
+  top: 80px;
+  text-align: center;
+}
+.Registration form input
+{
+  display: block;
+  margin: 20px;
+  text-align: center;
+  align-items: center;
+  position: relative;
+  top: 100px;
+  padding: 10px;
+  width: 80%;
+  border: none;
+
+
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+
+border-radius: 40px;
+  
+
+
+}
+
+
+
+.Registration img 
+{
+  width: 50%;
+}
+
+
+.Registration p a
+{
+  text-decoration: none;
+  color:#38C24E;
+}
+
