@@ -152,3 +152,102 @@ body {
   text-decoration: none;
   color: #38c24e;
 }
+
+
+.Log-in
+{
+  width: 30%;
+  height: 120vh;
+  background: #d8f3dc;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.Log-in h2
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  position: relative;
+  bottom: 80px;
+  text-align: center;
+}
+
+.Log-in #image
+{
+width: 50%;
+text-align: center;
+position: relative;
+left: 20%;
+
+}
+
+.Log-in form input {
+  display: block;
+  margin: 20px;
+  text-align: center;
+  align-items: center;
+  position: relative;
+  top: 50px;
+  padding: 10px;
+  width: 80%;
+  border: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  border-radius: 40px;
+}
+
+.Log-in p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  position: relative;
+  top: 70px;
+  text-align: center;
+}
+
+.Log-in button {
+  display: block;
+  text-align: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 60px;
+  color: #fff;
+  background-color: #538d22;
+  position: relative;
+  top: 120px;
+  border: none;
+  font-weight: bolder;
+}
+
+#forget{
+  position: relative;
+  top: 0px;
+  
+
+}
+
+#forget a{
+  text-decoration: none;
+  color: #38c24e;
+  font-size: 13px;
+}
+
+#sign-in
+{
+  position: relative;
+  top: 140px;
+}
+
+#sign-in a{
+  text-decoration: none;
+  color: #38c24e;
+  margin: 5px;
+}
+
