@@ -1,11 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Todo List Application
 
 > Description the project.
 
-This project is my portfolio in mobile-version it is student project
-in microverse bootcamp. It is html and CSS with no frameworks.
+Daily plan, track and finish your to-do task lists whether they be simple grocery shopping lists, daily habits tied to goals, single work tasks or complex multi-person projects. 
 
 ## Built With
 
