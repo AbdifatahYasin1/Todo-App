@@ -243,8 +243,7 @@ body {
   margin: 5px;
 }
 
-.welcome
-{
+.welcome {
   width: 30%;
   height: 120vh;
   background: #d8f3dc;
@@ -252,45 +251,38 @@ body {
   margin-top: 10px;
 }
 
-.welcome #rectangle
-{
+.welcome #rectangle {
   width: 100%;
   height: 45vh;
 }
 
-.welcome #ellipse
-{
-  position: relative; 
+.welcome #ellipse {
+  position: relative;
   bottom: 200px;
   transform: translateX(150%);
 }
 
-.welcome h3
-{
+.welcome h3 {
   position: relative;
   bottom: 200px;
   align-items: center;
   text-align: center;
   width: 100%;
-  color:#fff;
+  color: #fff;
   font-weight: 600;
-font-size: 0.5cm;
+  font-size: 0.5cm;
 }
 
-#clock
-{
+#clock {
   position: relative;
-  bottom:100px;
+  bottom: 100px;
   transform: translateX(70%);
   width: 40%;
 }
 
-#Rectangle7
-{
+#Rectangle7 {
   position: relative;
-  bottom:100px;
+  bottom: 100px;
   left: 40px;
   width: 80%;
 }
-
-
