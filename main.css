@@ -242,3 +242,56 @@ body {
   color: #38c24e;
   margin: 5px;
 }
+
+.welcome
+{
+  width: 30%;
+  height: 120vh;
+  background: #d8f3dc;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.welcome #rectangle
+{
+  width: 100%;
+  height: 45vh;
+}
+
+.welcome #ellipse
+{
+  position: relative; 
+  bottom:200px;
+  transform: translateX(150%);
+}
+
+.welcome h3
+{
+  position: relative;
+  bottom: 200px;
+ 
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  color:#fff;
+  font-weight: 600;
+font-size: 0.5cm;
+}
+
+#clock
+{
+  position: relative;
+  bottom:100px;
+  transform: translateX(70%);
+  width: 40%;
+}
+
+#Rectangle7
+{
+  position: relative;
+  bottom:100px;
+  left: 40px;
+  width: 80%;
+}
+
+
