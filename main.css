@@ -261,7 +261,7 @@ body {
 .welcome #ellipse
 {
   position: relative; 
-  bottom:200px;
+  bottom: 200px;
   transform: translateX(150%);
 }
 
@@ -269,7 +269,6 @@ body {
 {
   position: relative;
   bottom: 200px;
- 
   align-items: center;
   text-align: center;
   width: 100%;
