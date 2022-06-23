@@ -1,0 +1,288 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #000000d4;
+  font-family: Poppins, serif;
+}
+
+.splash-screen div {
+  width: 100%;
+}
+
+.splash-screen p {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: relative;
+  top: 150px;
+}
+
+.splash-screen button {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 60px;
+  color: #fff;
+  background-color: #538d22;
+  position: relative;
+  top: 250px;
+  border: none;
+  font-weight: bolder;
+}
+
+.splash-screen a {
+  text-decoration: none;
+}
+
+.splash-screen {
+  width: 30%;
+  height: 120vh;
+  background: #d8f3dc;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.splash-screen .undraw_reminders {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+  top: 100px;
+}
+
+.splash-screen h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: relative;
+  top: 130px;
+  left: 10px;
+}
+
+.Registration button {
+  display: block;
+  text-align: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 60px;
+  color: #fff;
+  background-color: #538d22;
+  position: relative;
+  top: 140px;
+  border: none;
+  font-weight: bolder;
+}
+
+#login {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  position: relative;
+  top: 180px;
+}
+
+#Register {
+  text-decoration: none;
+}
+
+.Registration {
+  width: 30%;
+  height: 120vh;
+  background: #d8f3dc;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.Registration h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+
+.Registration p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  position: relative;
+  top: 80px;
+  text-align: center;
+}
+
+.Registration form input {
+  display: block;
+  margin: 20px;
+  text-align: center;
+  align-items: center;
+  position: relative;
+  top: 100px;
+  padding: 10px;
+  width: 80%;
+  border: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  border-radius: 40px;
+}
+
+.Registration img {
+  width: 50%;
+}
+
+.Registration p a {
+  text-decoration: none;
+  color: #38c24e;
+}
+
+.Log-in {
+  width: 30%;
+  height: 120vh;
+  background: #d8f3dc;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.Log-in h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  position: relative;
+  bottom: 80px;
+  text-align: center;
+}
+
+.Log-in #image {
+  width: 50%;
+  text-align: center;
+  position: relative;
+  left: 20%;
+}
+
+.Log-in form input {
+  display: block;
+  margin: 20px;
+  text-align: center;
+  align-items: center;
+  position: relative;
+  top: 50px;
+  padding: 10px;
+  width: 80%;
+  border: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  border-radius: 40px;
+}
+
+.Log-in p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  position: relative;
+  top: 70px;
+  text-align: center;
+}
+
+.Log-in button {
+  display: block;
+  text-align: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 60px;
+  color: #fff;
+  background-color: #538d22;
+  position: relative;
+  top: 120px;
+  border: none;
+  font-weight: bolder;
+}
+
+#forget {
+  position: relative;
+  top: 0;
+}
+
+#forget a {
+  text-decoration: none;
+  color: #38c24e;
+  font-size: 13px;
+}
+
+#sign-in {
+  position: relative;
+  top: 140px;
+}
+
+#sign-in a {
+  text-decoration: none;
+  color: #38c24e;
+  margin: 5px;
+}
+
+.welcome {
+  width: 30%;
+  height: 120vh;
+  background: #d8f3dc;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.welcome #rectangle {
+  width: 100%;
+  height: 45vh;
+}
+
+.welcome #ellipse {
+  position: relative;
+  bottom: 200px;
+  transform: translateX(150%);
+}
+
+.welcome h3 {
+  position: relative;
+  bottom: 200px;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.5cm;
+}
+
+#clock {
+  position: relative;
+  bottom: 100px;
+  transform: translateX(70%);
+  width: 40%;
+}
+
+#Rectangle7 {
+  position: relative;
+  bottom: 100px;
+  left: 40px;
+  width: 80%;
+}
